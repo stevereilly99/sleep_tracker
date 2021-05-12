@@ -553,7 +553,7 @@ def update_sleep(team_id):
                             (player["name"], player["player_id"], player["team_id"], player["sleep_hours"], player["sleep_minutes"], player["date"])
                         )
                         db.execute("COMMIT")
-                        db.close()
+        db.close()
 
 @app.route("/sleep_chart", methods=['GET', 'POST'])
 @login_required
