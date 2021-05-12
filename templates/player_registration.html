@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+</style>
+<script src=""></script>
+<body>
+
+<div class="w3-bar w3-black">
+    <a href="#" class="w3-bar-item w3-button">Home</a>
+    <a href="#" class="w3-bar-item w3-button">Link 1</a>
+    <a href="#" class="w3-bar-item w3-button">Link 2</a>
+    <a href="#" class="w3-bar-item w3-button">Link 3</a>
+</div>
+
+
+<!-- This is going to be the form -->
+<form class="w3-container" method="POST">
+    <label for="first_name">First Name</label>
+    <input id="first_name" name="fname" class="w3-input" type="text">
+    <label for="last_name">Last Name</label>
+    <input id="last_name" name="lname" class="w3-input" type="text">
+    <label>Team</label>
+    <select class="w3-select" name="team_name">
+        {% for team in teams %}
+            <option value="{{ team.id }}">{{ team.name }} </option>
+        {% endfor %}
+    </select>
+
+    <input type="submit" class="w3-button w3-blue" value="Register">
+</form>
+
+</body>
+</html>

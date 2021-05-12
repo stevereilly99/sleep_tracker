@@ -1,0 +1,22 @@
+
+{% extends "layout.html" %}
+
+{% block title %}Sleep Chart{% endblock %}
+
+{% block head %}
+{% endblock %}
+
+
+{% block content %}
+<h2>Select a players name from drop down to get their full sleep history</h2>
+<form class="w3-container w3-center w3-grey w3-card-4" action="/sleep_chart" method="POST">
+  <label for="player_list">Choose a player</label>
+  <select class="w3-select" name="player_list">
+    <option value="everyone" name="everyone">All athletes</option>
+    {% for player in players %}
+    <option id="name" name="name" value="{{ player.id }}">{{ player.name }}</option> 
+    {% endfor %}
+  </select>
+  <input type="submit">
+</form>
+{% endblock %}

@@ -1,0 +1,19 @@
+
+{% extends "layout.html" %}
+
+{% block title %}Logged In{% endblock %}
+
+{% block head %}
+{% endblock %}
+
+{% block content %}
+    <!-- This is going to be the form -->
+    <div class="w3-container w3-half w3-margin-top">
+        <form class="w3-container w3-center w3-grey w3-card-4" method="POST">
+            <label for="days">How many days of sleep do you want in the data?</label>
+            <input type="number" class="w3-select" id="days" name="days" min="1" max="7">
+            <input type="submit" class="w3-button w3-blue" value="Get sleep stats">
+        </form>
+    </div>
+
+{% endblock %}

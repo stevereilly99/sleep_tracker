@@ -1,0 +1,1313 @@
+{
+    "bucket": [
+        {
+            "startTimeMillis": "1616986146226",
+            "endTimeMillis": "1619578146226",
+            "dataset": [
+                {
+                    "dataSourceId": "derived:com.google.sleep.segment:com.google.android.gms:merged",
+                    "point": [
+                        {
+                            "startTimeNanos": "1616989481595987968",
+                            "endTimeNanos": "1616989680000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1616989680000000000",
+                            "endTimeNanos": "1616989958960015104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1616989958960015104",
+                            "endTimeNanos": "1616990408960015104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1616990408960015104",
+                            "endTimeNanos": "1616990468960015104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1616990468960015104",
+                            "endTimeNanos": "1616990558960015104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1616990558960015104",
+                            "endTimeNanos": "1616990738960015104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1616990738960015104",
+                            "endTimeNanos": "1616999828960015104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1616999828960015104",
+                            "endTimeNanos": "1617000038960015104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617000038960015104",
+                            "endTimeNanos": "1617017288960015104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617077411450164992",
+                            "endTimeNanos": "1617077741450164992",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617077741450164992",
+                            "endTimeNanos": "1617077921450164992",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617077921450164992",
+                            "endTimeNanos": "1617077981450164992",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617077981450164992",
+                            "endTimeNanos": "1617078101450164992",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617078101450164992",
+                            "endTimeNanos": "1617101321450164992",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617101321450164992",
+                            "endTimeNanos": "1617101460000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617257476792921088",
+                            "endTimeNanos": "1617277216792921088",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617277216792921088",
+                            "endTimeNanos": "1617277666792921088",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617277666792921088",
+                            "endTimeNanos": "1617284236792921088",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617284236792921088",
+                            "endTimeNanos": "1617284400000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617340931517404160",
+                            "endTimeNanos": "1617341171517404160",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617341171517404160",
+                            "endTimeNanos": "1617341501517404160",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617341501517404160",
+                            "endTimeNanos": "1617366851517404160",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617366851517404160",
+                            "endTimeNanos": "1617367211517404160",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617367211517404160",
+                            "endTimeNanos": "1617367271517404160",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617512407948980992",
+                            "endTimeNanos": "1617535147948980992",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617535147948980992",
+                            "endTimeNanos": "1617535620000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617596880000000000",
+                            "endTimeNanos": "1617597181884954880",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617597181884954880",
+                            "endTimeNanos": "1617620011884954880",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617620011884954880",
+                            "endTimeNanos": "1617620280000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617620280000000000",
+                            "endTimeNanos": "1617620341884954880",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617620341884954880",
+                            "endTimeNanos": "1617622111884954880",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617622111884954880",
+                            "endTimeNanos": "1617622320000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617681597208348928",
+                            "endTimeNanos": "1617706827208348928",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617706827208348928",
+                            "endTimeNanos": "1617706887208348928",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617706887208348928",
+                            "endTimeNanos": "1617707547208348928",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617707547208348928",
+                            "endTimeNanos": "1617707607208348928",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617707607208348928",
+                            "endTimeNanos": "1617707757208348928",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617767661101316096",
+                            "endTimeNanos": "1617778341101316096",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617778341101316096",
+                            "endTimeNanos": "1617778431101316096",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617778431101316096",
+                            "endTimeNanos": "1617778491101316096",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617778491101316096",
+                            "endTimeNanos": "1617778581101316096",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617778581101316096",
+                            "endTimeNanos": "1617796371101316096",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617796371101316096",
+                            "endTimeNanos": "1617796560000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617855420000000000",
+                            "endTimeNanos": "1617855686817282048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617855686817282048",
+                            "endTimeNanos": "1617858776817282048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617858776817282048",
+                            "endTimeNanos": "1617858986817282048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617858986817282048",
+                            "endTimeNanos": "1617881816817282048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617881816817282048",
+                            "endTimeNanos": "1617882086817282048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617882086817282048",
+                            "endTimeNanos": "1617882146817282048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617882146817282048",
+                            "endTimeNanos": "1617882206817282048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617882206817282048",
+                            "endTimeNanos": "1617884216817282048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617950340000000000",
+                            "endTimeNanos": "1617950672240573952",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617950672240573952",
+                            "endTimeNanos": "1617976682240573952",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1617976682240573952",
+                            "endTimeNanos": "1617977280000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618030420927403008",
+                            "endTimeNanos": "1618030450927403008",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618030450927403008",
+                            "endTimeNanos": "1618030510927403008",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618030510927403008",
+                            "endTimeNanos": "1618056880927403008",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618056880927403008",
+                            "endTimeNanos": "1618056970927403008",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618056970927403008",
+                            "endTimeNanos": "1618057810927403008",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618057810927403008",
+                            "endTimeNanos": "1618057870927403008",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618057870927403008",
+                            "endTimeNanos": "1618057930927403008",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618057930927403008",
+                            "endTimeNanos": "1618058080927403008",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618058080927403008",
+                            "endTimeNanos": "1618058440927403008",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618058440927403008",
+                            "endTimeNanos": "1618058580000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618117023542146048",
+                            "endTimeNanos": "1618132353542146048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618132353542146048",
+                            "endTimeNanos": "1618132413542146048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618132413542146048",
+                            "endTimeNanos": "1618145223542146048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618145223542146048",
+                            "endTimeNanos": "1618145493542146048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618145493542146048",
+                            "endTimeNanos": "1618145643542146048",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618200900000000000",
+                            "endTimeNanos": "1618201191662255104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618201191662255104",
+                            "endTimeNanos": "1618201371662255104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618201371662255104",
+                            "endTimeNanos": "1618201551662255104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618201551662255104",
+                            "endTimeNanos": "1618223301662255104",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618223301662255104",
+                            "endTimeNanos": "1618223400000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618292037528232960",
+                            "endTimeNanos": "1618312137528232960",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618312137528232960",
+                            "endTimeNanos": "1618312500000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618372800000000000",
+                            "endTimeNanos": "1618372903499617024",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618372903499617024",
+                            "endTimeNanos": "1618386523499617024",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618386523499617024",
+                            "endTimeNanos": "1618386643499617024",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618386643499617024",
+                            "endTimeNanos": "1618401283499617024",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618401283499617024",
+                            "endTimeNanos": "1618401343499617024",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618401343499617024",
+                            "endTimeNanos": "1618401403499617024",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618401403499617024",
+                            "endTimeNanos": "1618401420000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618460700000000000",
+                            "endTimeNanos": "1618461079373228032",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618461079373228032",
+                            "endTimeNanos": "1618485529373228032",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618485529373228032",
+                            "endTimeNanos": "1618485589373228032",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618485589373228032",
+                            "endTimeNanos": "1618491559373228032",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618491559373228032",
+                            "endTimeNanos": "1618491660000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618555500000000000",
+                            "endTimeNanos": "1618555748027645184",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618555748027645184",
+                            "endTimeNanos": "1618581308027645184",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618581308027645184",
+                            "endTimeNanos": "1618581398027645184",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618581398027645184",
+                            "endTimeNanos": "1618581488027645184",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618581488027645184",
+                            "endTimeNanos": "1618584540000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618723781258259968",
+                            "endTimeNanos": "1618734431258259968",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618734431258259968",
+                            "endTimeNanos": "1618734851258259968",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618734851258259968",
+                            "endTimeNanos": "1618750091258259968",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618750091258259968",
+                            "endTimeNanos": "1618750151258259968",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618750151258259968",
+                            "endTimeNanos": "1618750301258259968",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618806660000000000",
+                            "endTimeNanos": "1618806753291355136",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618806753291355136",
+                            "endTimeNanos": "1618822713291355136",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618822713291355136",
+                            "endTimeNanos": "1618822773291355136",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618822773291355136",
+                            "endTimeNanos": "1618830543291355136",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618830543291355136",
+                            "endTimeNanos": "1618830600000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618981260000000000",
+                            "endTimeNanos": "1618981500474749952",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1618981500474749952",
+                            "endTimeNanos": "1619001840474749952",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619001840474749952",
+                            "endTimeNanos": "1619001960000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619068680000000000",
+                            "endTimeNanos": "1619068807978294016",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619068807978294016",
+                            "endTimeNanos": "1619096137978294016",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619096137978294016",
+                            "endTimeNanos": "1619096340000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619496060000000000",
+                            "endTimeNanos": "1619499780000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619499780000000000",
+                            "endTimeNanos": "1619500440000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619500440000000000",
+                            "endTimeNanos": "1619502540000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619502540000000000",
+                            "endTimeNanos": "1619502960000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619502960000000000",
+                            "endTimeNanos": "1619517660000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619517660000000000",
+                            "endTimeNanos": "1619518320000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619518320000000000",
+                            "endTimeNanos": "1619522220000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619522220000000000",
+                            "endTimeNanos": "1619523060000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 1,
+                                    "mapVal": []
+                                }
+                            ]
+                        },
+                        {
+                            "startTimeNanos": "1619523060000000000",
+                            "endTimeNanos": "1619531520000000000",
+                            "dataTypeName": "com.google.sleep.segment",
+                            "value": [
+                                {
+                                    "intVal": 2,
+                                    "mapVal": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

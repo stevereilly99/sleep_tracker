@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<title>{% block title %}{% endblock %} </title>
+
+  <body class="w3-blue">
+    <div class="w3-bar w3-blue">
+        <a href="/logged_in" class="w3-bar-item w3-button w3-mobile">Home</a>
+        <a href="/sleep_stat" class="w3-bar-item w3-button w3-mobile">Sleep Stat</a>
+        <a href="/sleep_chart" class="w3-bar-item w3-button w3-mobile">Sleep Chart</a>
+        <a href="/logout" class="w3-bar-item w3-button w3-mobile w3-right">Logout</a>
+    </div>
+    {% block content %}
+    {% endblock %}
+  </body>
+</html>

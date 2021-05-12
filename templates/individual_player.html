@@ -1,0 +1,52 @@
+{% extends "layout.html" %}
+
+{% block title %}Sleep Table{% endblock %}
+
+
+{% block head %}
+{% endblock %}
+
+{% block content %}
+<div class="w3-container">
+    <h1>{{ sleep_dict[0].name }}'s Sleep History</h1>
+<!-- 
+    <h2>Select a players name from drop down to get their full sleep history</h2>
+    <form class="w3-container w3-center w3-grey w3-card-4" action="/sleep_table" method="POST">
+      <label for="player_list">Choose a player</label>
+      <select class="w3-select" name="player_list">
+        <option value="" disabled selection>Choose player</option>
+        {% for sleep in sleep_dict %}
+        <option id="name" name="name" value="{{ sleep.id }}">{{ sleep.name }}</option> 
+        {% endfor %}
+      </select>
+      <input type="submit">
+    </form> -->
+
+      <table class="w3-table w3-striped w3-bordered">
+        <tr>
+          <th>Name</th>
+          <th>Date</th>
+          <th>Average Hours of Sleep</th>
+          <th>Average Minutes of Sleep</th>
+        </tr>
+        {% for sleep in sleep_dict %}
+        {% if sleep.sleep_hours|int < 5 %}
+        <tr class="w3-red">
+          <td>{{ sleep.name }}</td>
+          <td>{{ sleep.date }}</td>
+          <td>{{ sleep.sleep_hours }}</td>
+          <td>{{ sleep.sleep_minutes }}</td>
+        </tr>
+        {% else %}
+        <tr class="w3-green">
+          <td>{{ sleep.name }}</td>
+          <td>{{ sleep.date }}</td>
+          <td>{{ sleep.sleep_hours }}</td>
+          <td>{{ sleep.sleep_minutes }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+      </table>
+</div>
+
+{% endblock %}
